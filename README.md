@@ -4,7 +4,7 @@ This calculator that not only adds, subtracts, and multiplies, but is also smart
 Supported:
 - Operations: addition `+`, subtraction `-`, multiplication `*`, division `/`, power `^` and parentheses `(...)`
 - A sequence of `+` (like `+++` or `+++++`) or A sequence of `-` (like `--` or `---`)
-- Varibles
+- Variables
 
 ## Main Skill
 stack, queue, deque, postfix notation, regular expression
