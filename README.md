@@ -10,7 +10,7 @@ Supported:
 stack, queue, deque, postfix notation, regular expression
 ## Theory
 Postfix notation, also known as Reverse Polish notation (RPN) is used in this program. 
-Stack (LIFO) is used to convert an expression from infix to postfix notation. Queue (FIFO) and stack (LIFO) are used to calculate based on postfix expression.
+Stack (LIFO) is used to convert an expression from infix to postfix notation. Queue (FIFO) and stack (LIFO) are used to calculate the result based on postfix expression.
 
 ## Example
 ![](/example.gif)
